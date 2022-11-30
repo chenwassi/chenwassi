@@ -1,7 +1,6 @@
   [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png)](https://rishavchanda.io)
   <h1 align="center">Hi 👋, I'm Chen Wassi</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
-<img src="https://memes.memedrop.io/production/o3w14ooX8kDm/source.gif" alt="" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenwassi&label=Profile%20views&color=0e75b6&style=flat" alt="chenwassi" /> </p>
 
